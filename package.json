@@ -99,7 +99,7 @@
     "serverless-plugin-typescript": "2.1.5",
     "serverless-prune-plugin": "2.0.1",
     "stream": "0.0.2",
-    "ts-jest": "29.1.0",
+    "ts-jest": "29.2.2",
     "ts-node": "10",
     "typescript": "5.1.5",
     "uuid": "9.0.0"
