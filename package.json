@@ -75,7 +75,7 @@
     "@types/uuid": "9.0.2",
     "@typescript-eslint/eslint-plugin": "5.60.0",
     "@typescript-eslint/parser": "5.60.0",
-    "aws-sdk": "2.1150.0",
+    "aws-sdk": "2.1659.0",
     "aws-sdk-mock": "5.7.0",
     "axios-mock-adapter": "1.21.1",
     "eslint": "8.43.0",
