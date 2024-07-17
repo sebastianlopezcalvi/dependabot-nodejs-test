@@ -86,7 +86,7 @@
     "is-ci": "3.0.0",
     "jest": "29.5.0",
     "lint-staged": "13.0.1",
-    "prettier": "2.6.2",
+    "prettier": "3.3.3",
     "serverless": "3.33.0",
     "serverless-aws-documentation": "1.1.0",
     "serverless-domain-manager": "7.0.4",
