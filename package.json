@@ -63,7 +63,7 @@
     "class-transformer": "0.5.1",
     "joi": "17.9.2",
     "pg": "8.11.1",
-    "pg-promise": "11.5.0",
+    "pg-promise": "11.9.1",
     "typeorm": "0.3.6"
   },
   "devDependencies": {
