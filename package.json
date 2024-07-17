@@ -75,7 +75,7 @@
     "@typescript-eslint/parser": "5.60.0",
     "aws-sdk": "2.1150.0",
     "aws-sdk-mock": "5.7.0",
-    "axios-mock-adapter": "1.21.1",
+    "axios-mock-adapter": "1.22.0",
     "eslint": "8.43.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-deprecation": "1.4.1",
